@@ -3,6 +3,6 @@
 _이 파일은 `.gitignore`에 의해 깃 동기화에서 제외됩니다. API 키·토큰을 자유롭게 적으세요._
 
 ## YouTube Data API
-- YOUTUBE_API_KEY: 
-- YOUTUBE_CHANNEL_ID: 
+- YOUTUBE_API_KEY: AIzaSyAMxH2eBX4MzI1O7W7SB8I2TGjUD30FGtg
+- YOUTUBE_CHANNEL_ID: UC6aCpDWRmr9e7bPhGWAx1dw
 
