@@ -6,3 +6,4 @@ _사용자가 직접 줄을 지우면 그 주장은 다시 미검증 상태로 �
 
 
 - [2026-05-07] - **파일명:** `final_collagen_regeneration_4K.mp4` _(근거: 2026-05-06T01-55 작업 로그)_
+- [2026-05-07] * **Previous Issue (Access Denied):** Resolved. File permissions updated to `644` (Read-all) and local web server streaming path re-mapped. _(근거: 2026-05-06T01-55 작업 로그)_
