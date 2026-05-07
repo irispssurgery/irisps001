@@ -11,3 +11,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-07] C:\Users\USER\아이리스Ai\IrisAi\_company\_company\sessions\2026-05-07T04-31 안에 final_output.mp4  안보임 → 보고서 sessions/2026-05-07T04-43/_report.md
 - [2026-05-07] 로그 검토 후, 문제 지점 파악 및 렌더링 재실행 해줘 → 보고서 sessions/2026-05-07T04-48/_report.md
 - [2026-05-07] 알아서  직접 진행해줘 → 보고서 sessions/2026-05-07T05-15/_report.md
+- [2026-05-07] 로칼지식공간에서 중복되는 것을 정리해줘 → 보고서 sessions/2026-05-07T05-21/_report.md
