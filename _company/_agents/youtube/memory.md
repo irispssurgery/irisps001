@@ -1,14 +1,7 @@
-# 📺 YouTube (Head of YouTube) 개인 메모리
+# 📺 레오 (Head of YouTube) 개인 메모리
 
-_YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 패턴이 누적됩니다._
+_레오 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 패턴이 누적됩니다._
 
 ## 학습 기록
 
-- [2026-05-04] 영상 제작을 위해, 콜라겐 재생 원리 콘텐츠의 구체적인 에피소드별 '샷 리스트(Shot List)'와 상세한 '스토리보드 초안'을 작성해주세요. (슬레이트 그레이 톤, 전문 인포그래픽 강조, 10분 분량 목표) → 산출물 sessions/2026-05-04T02-48/youtube.md
-- [2026-05-04] 기존 스토리보드를 바탕으로, 영상에 삽입될 '콜라겐 분자 구조 및 재생 과정' 애니메이션 제작을 위한 구체적인 시각적 요소 및 움직임 브리프를 작성하세요. → 산출물 sessions/2026-05-04T03-18/youtube.md
-- [2026-05-04] 확정된 디자인 가이드를 바탕으로 PLLA의 생체 자극 원리를 보여주는 3D 애니메이션 시퀀스 제작 및 고해상도 렌더링 작업을 수행하세요. → 산출물 sessions/2026-05-04T04-07/youtube.md
-- [2026-05-04] 편집 완료된 영상을 기반으로 유튜브 업로드 준비 및 썸네일/제목/태그 최적화 → 산출물 sessions/2026-05-04T04-43/youtube.md
-- [2026-05-04] 완성된 영상을 바탕으로 시청률을 극대화할 수 있는 썸네일 제작 및 영상 제목, 설명, 태그 등 업로드용 메타데이터를 최종 확정할 것. → 산출물 sessions/2026-05-04T06-08/youtube.md
-- [2026-05-04] 편집 완료된 영상을 검토하고, 사용자에게 최종 결과물을 프리뷰 형태로 제시하며 업로드 준비 상태를 보고하세요. → 산출물 sessions/2026-05-04T06-43/youtube.md
-- [2026-05-04] 유튜브 채널에 영상이 업로드되었는지 확인하고, 시청 가능한 영상의 URL을 추출하세요. → 산출물 sessions/2026-05-04T07-17/youtube.md
-- [2026-05-06] 최종 완성된 '콜라겐 재생 원리' 영상을 활용하여, 유튜브 업로드에 필요한 모든 메타데이터(제목, 상세 설명, 태그)를 작성하고, 썸네일 디자인팀과 협력하여 가장 클릭률(CTR)이 높을 것으로 예상되는 최종 썸네일 브리프를 확정하세요. 특히, 설명란의 마지막 부분에 '연간 건강 로드맵' 멤버십 가입 CTA를 강력하게 삽입하는 것을 최우선으로 고려해주세요. → 산출물 sessions/2026-05-06T01-22/youtube.md
+- [2026-05-07] Generate a complete, SEO-optimized YouTube upload package for the 'Collagen Regeneration' video. This must include: 1) An attention-grabbing Title, 2) A detailed Description containing keywords and a call-to-action, 3) A list of relevant Tags, and 4) A specific visual concept/prompt for the YouTube 
