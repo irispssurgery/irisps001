@@ -27,3 +27,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-07] 영상 파일 은 어디에 위치? → 보고서 sessions/2026-05-07T07-37/_report.md
 - [2026-05-07] 시스템 로그 기반의 직접적인 경로 확인 및 재실행해줘 → 보고서 sessions/2026-05-07T07-53/_report.md
 - [2026-05-08] 생성된 영상 파일 을 보여줘 → 보고서 sessions/2026-05-08T01-11/_report.md
+- [2026-05-08] UnicodeEncodeError: 'cp949' codec can't encode character '\u274c' in position 0: illegal multibyte sequence  종료코드 1  문제 해결해줘 → 보고서 sessions/2026-05-08T02-20/_report.md
