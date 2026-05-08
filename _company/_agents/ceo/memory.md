@@ -28,3 +28,6 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-07] 시스템 로그 기반의 직접적인 경로 확인 및 재실행해줘 → 보고서 sessions/2026-05-07T07-53/_report.md
 - [2026-05-08] 생성된 영상 파일 을 보여줘 → 보고서 sessions/2026-05-08T01-11/_report.md
 - [2026-05-08] UnicodeEncodeError: 'cp949' codec can't encode character '\u274c' in position 0: illegal multibyte sequence  종료코드 1  문제 해결해줘 → 보고서 sessions/2026-05-08T02-20/_report.md
+- [2026-05-08] 방법 1을 실행해줘 → 보고서 sessions/2026-05-08T02-32/_report.md
+- [2026-05-08] 직접적용시키고 실행해줘 → 보고서 sessions/2026-05-08T02-41/_report.md
+- [2026-05-08] ❌ 종료 코드 1 발생한  모든 부분에  ="kw">import</span> sys ="kw">import</span> io  ="kw">class</span>="cm"># 표준 출력(stdout)과 표준 에러(stderr)의 인코딩을 utf-="num">8</span>로 재설정 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-="num">8</span>') sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf
