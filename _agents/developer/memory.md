@@ -8,3 +8,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-11] 렌더링된 영상 파일을 다운로드 가능한 파일 포맷(MP4 등)으로 변환하고, 사용자가 접근할 수 있는 다운로드 경로 또는 링크를 생성하십시오. → 산출물 sessions/2026-05-11T01-43/developer.md
 - [2026-05-11] 사용자가 윈도우 탐색기에서 즉시 해당 파일을 확인할 수 있도록 `start explorer "[프로젝트 경로]\sessions\2026-05-11_Final_Render"` 명령어를 생성하고, 로컬 파일 경로를 복사하기 쉽게 텍스트로 제공할 것. → 산출물 sessions/2026-05-11T02-04/developer.md
 - [2026-05-11] 사용자의 PC 환경에서 `90s_Retro_MixedMedia_Final_Render.mp4` 파일이 저장된 로컬 폴더를 즉시 열 수 있는 `start explorer` 명령어를 생성하십시오. → 산출물 sessions/2026-05-11T02-41/developer.md
+- [2026-05-11] Python의 `shutil` 또는 `os` 모듈을 사용하여 `90s_Retro_MixedMedia_Final_Render.mp4` 파일을 `C:\Users\USER\아이리스Ai\IrisAi\movie` 경로로 이동시키는 스크립트를 실행하고, 파일 이동 성공 여부를 검증하세요. → 산출물 sessions/2026-05-11T03-10/developer.md

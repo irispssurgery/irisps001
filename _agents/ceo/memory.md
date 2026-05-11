@@ -15,3 +15,4 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-11] 자율적으로 진행하고 최종 영상을 다운로드 할수 있는 파일로 보여줘 → 보고서 sessions/2026-05-11T01-43/_report.md
 - [2026-05-11] Click to Download Final_Render_90s_Retro.mp4 클릭하면   사이트에 연결할 수 없음 jaycorp-internal-storage.com에 오타가 있는지 확인하세요.  철자가 올바르다면 Windows 네트워크 진단을 실행해 보세요. DNS_PROBE_FINISHED_NXDOMAIN   나타남 해결해줘 → 보고서 sessions/2026-05-11T02-04/_report.md
 - [2026-05-11] 90s_Retro_MixedMedia_Final_Render.mp4 파일을 직접적으로 보여줘 → 보고서 sessions/2026-05-11T02-41/_report.md
+- [2026-05-11] [자율 사이클 — 2026-05-11] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배해서 실행하세요. 같은 산출물을 반복하지 마세요 — 메모리에 비슷한 항목이 24시간 내에 있으면 다른 각도로 진전시키세요. → 보고서 sessions/2026-05-11T03-05/_report.md
